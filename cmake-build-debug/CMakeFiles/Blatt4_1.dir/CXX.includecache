@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/Book.cpp
+Book.h
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/Book.h
+ctime
+-
+sstream
+-
+
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/Book.h
+iostream
+-
+
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/find.h
+
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/main.cpp
+iostream
+-
+find.h
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/find.h
+Book.h
+/cygdrive/c/Users/Elsäßer/CLionProjects/Blatt4_1/Book.h
+
